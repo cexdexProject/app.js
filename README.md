@@ -47,4 +47,4 @@ catch (err) {
 Note
 This application assumes that you are using a web3 provider like Metamask. If you are using a different setup, you might need to modify the web3 initialization.
 
-This application doesn't provide the implementation for the token swap smart contract. It only interacts with an existing smart contract using its address and ABI.
+
