@@ -9,7 +9,7 @@ You will need to replace CONTRACT_ADDRESS with the address of your deployed cont
 javascript
 Copy code
 const contractAddress = 'CONTRACT_ADDRESS'; // Replace with the deployed contract address
-const abi = [...]; // Replace with the ABI of the deployed contract
+const abi = [...]; // ABI of the deployed contract
 How to Use
 The application provides a function swapTokens() that performs a token swap operation.
 
