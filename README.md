@@ -1,5 +1,4 @@
 
-
 Token Swap Application
 This application is a simple web-based interface for a token swap smart contract. It utilizes Web3.js library to interact with the Ethereum blockchain.
 
